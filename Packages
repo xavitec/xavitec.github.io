@@ -1,13 +1,15 @@
 Package: net.xavitec.teveplay
-Version: 2.0.0-1
-Section: App
-Maintainer: XaviTec <xavitec@icloud.com>
-Depends: firmware (>11.0),
+Version: 1.2.2
 Architecture: iphoneos-arm
+Maintainer: XaviTec <xavitec@icloud.com>
+Depends: net.angelxwind.appsyncunified, firmware (>11.0)
 Filename: ./debs/TevePlay.deb
-Size: 854
+Size: 17973402
 MD5sum: F80B4E4A4FB648CEAA947EA827607803
-Description: This is a sample new package. Firmware should be greater than 7.0
+SHA1: DC33222BC9A6F98BC4FD3A2206F1615109EAA644
+SHA256: E6C73062A1D15181A04C1A28BC92BEA169C0F2350819D6190CE80832D43936DC
+Section: App
+Description: App
+Author: XaviTec <xavitec@icloud.com>
 Name: TevePlay
-Author:  XaviTec <xavitec@icloud.com>
 Depiction: https://xavitec.github.io/depictions/?p=net.xavitec.teveplay
