@@ -1,16 +1,17 @@
 Package: net.xavitec.teveplay
 Name: TevePlay
-Version: 1.2.2-1
+Version: 1.2.2
 Architecture: iphoneos-arm
-Description: Prueba con SHA512 
+Depends:  firmware (>11.0)
+Description: Television, Peliculas y series
+Depiction: https://xavitec.github.io/depictions/?p=net.xavitec.teveplay
 Maintainer:  XaviTec <xavitec@icloud.com>
 Author:  XaviTec <xavitec@icloud.com>
+Sponsor:  XaviTec <xavitec@icloud.com>
 Section: Application
-Depends: firmware (>11.0)
 Filename: ./debs/net.xavitec.teveplay_1.2.2_iphoneos-arm.deb
-Size: 17973442
-MD5sum: b787c32746e3b55eb24c6a2cffa16709
-SHA1: afe9ff40e7c1cbc52f631fed502b6e9798f0f728
-SHA256: 7b565ec71c4ce0944077d8263dbdd1115cc8c88268e69958938096cb232d4a9b
-SHA512: c7f62e60d299b66f31d456f167508cfd304c94ec5590052175e968141ef5848c84ad1f2baa092d0bf9797ed9b45b8be6f76da0e38a79735b1a8403324d2068f5
-Depiction: https://xavitec.github.io/depictions/?p=net.xavitec.teveplay
+Size: 17973486
+MD5sum: c2e8c48607788367c26272071fd33ba6
+SHA1: 9c0904d21648385fd60dc8203da0e74528ebbee4
+SHA256: 8d9797c7d74568f66a0b0c4ab6eb573a2431e72aa373cb2c17e6eaf9c4c311fe
+SHA512: 24b6b56b3422d253a121a23457044aa0e910fa95548a84181aca545aeb5575adc69642fd5938fb60a1a5b9d3f37a326c12bdb3c2d0edca69560c25ee3025e89e
