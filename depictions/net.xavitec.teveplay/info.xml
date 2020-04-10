@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>¿Buscas Televisión, series y películas de las que todo el mundo habla? Encontraras muchas en esta aplicación.</shortDescription>
 	<descriptionlist>
-		<description>Este es un paquete con representaciones completas.</description>
+		<description>¿Buscas Televisión, series y películas de las que todo el mundo habla? Encontraras muchas en esta aplicación.</description>
 		<description><![CDATA[
 		Tenemos televisión, series, películas y 24/7.
 		<br/>
@@ -28,12 +28,24 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Television</description>
+			<image>tv.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Peliculas</description>
+			<image>peliculas.png</image>
+		</screenshot>	
+		<screenshot>
+			<description>Series</description>
+			<image>series.png</image>
+		</screenshot>	
+		<screenshot>
+			<description>Detalle Peliculs</description>
+			<image>detallePelicula.png</image>
+		</screenshot>	
+		<screenshot>
+			<description>Detalle Serie</description>
+			<image>detalleSerie.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
