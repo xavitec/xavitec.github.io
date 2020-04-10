@@ -1,10 +1,10 @@
 <package>
 	<id>net.xavitec.tevepaly</id>
 	<name>Old Package</name>
-	<version>1.2.2-1</version>
+	<version>1.2.2</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.0</maxiOS>
+			<miniOS>12.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
