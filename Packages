@@ -1,13 +1,13 @@
 Package: net.xavitec.teveplay
 Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Section: App
+Maintainer: XaviTec <xavitec@icloud.com>
+Depends: firmware (>11.0),
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Filename: ./debs/teveplay.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: F80B4E4A4FB648CEAA947EA827607803
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+Name: TevePlay
+Author:  XaviTec <xavitec@icloud.com>
 Depiction: https://xavitec.github.io/depictions/?p=net.xavitec.teveplay
