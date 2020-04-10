@@ -2,12 +2,12 @@ Package: net.xavitec.teveplay
 Name: TevePlay
 Version: 1.2.2
 Architecture: iphoneos-arm
-Description: Prueba con SHA512 y en minisculas 
+Description: Link Externo 
 Maintainer:  XaviTec <xavitec@icloud.com>
 Author:  XaviTec <xavitec@icloud.com>
 Section: Application
 Depends: firmware (>11.0)
-Filename: ./debs/net.xavitec.teveplay_1.2.2_iphoneos-arm.deb
+Filename: https://archive.org/download/net.xavitec.teveplay_1.2.2_iphoneos-arm/net.xavitec.teveplay_1.2.2_iphoneos-arm.deb
 Size: 17973442
 MD5sum: b787c32746e3b55eb24c6a2cffa16709
 SHA1: afe9ff40e7c1cbc52f631fed502b6e9798f0f728
