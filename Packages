@@ -9,7 +9,7 @@ MD5sum: F80B4E4A4FB648CEAA947EA827607803
 SHA1: DC33222BC9A6F98BC4FD3A2206F1615109EAA644
 SHA256: E6C73062A1D15181A04C1A28BC92BEA169C0F2350819D6190CE80832D43936DC
 Section: App
-Description: App
+Description: mi APP
 Author: XaviTec <xavitec@icloud.com>
 Name: TevePlay
 Depiction: https://xavitec.github.io/depictions/?p=net.xavitec.teveplay
