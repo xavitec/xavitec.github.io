@@ -2,7 +2,7 @@ Package: net.xavitec.teveplay
 Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: XaviTec <xavitec@icloud.com>
-Depends: cydia.net.angelxwind.appsyncunified, firmware (>11.0)
+Depends: firmware (>11.0)
 Filename: ./debs/TevePlay.deb
 Size: 17973402
 MD5sum: F80B4E4A4FB648CEAA947EA827607803
