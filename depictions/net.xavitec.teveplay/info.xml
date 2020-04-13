@@ -1,7 +1,7 @@
 <package>
 	<id>net.xavitec.teveplay</id>
 	<name>TevePlay App</name>
-	<version>1.2.2</version>
+	<version>1.2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -49,7 +49,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Version 1.2.2</change>
+		<change>Version 1.2.3</change>
 		<change>Mejoras en Series</change>
 	</changelog>
 	<links>
