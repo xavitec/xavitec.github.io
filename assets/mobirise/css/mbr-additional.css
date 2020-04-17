@@ -1105,15 +1105,9 @@ section.lazy-placeholder:after {
   background-color: #0f7699;
   background: linear-gradient(45deg, #0f7699, #ff7f9f);
 }
-.cid-rWrWfVz4qG .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-rWrWfVz4qG .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -1127,6 +1121,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rWrWfVz4qG H1 {
+  text-align: center;
+}
+.cid-rWrWfVz4qG .mbr-text,
+.cid-rWrWfVz4qG .mbr-section-btn {
   text-align: center;
 }
 .cid-rWrZ8X8lKE {
